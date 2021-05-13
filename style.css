@@ -165,14 +165,14 @@ nav a {
 /* Content Section Hero */
 
 .hero {
-  /* background: var(--primary-color), url(/images/hero-bg-1000px.jpg); */
+  /* background: var(--primary-color), url(images/hero-bg-1000px.jpg); */
 
   background: linear-gradient(
       0deg,
       rgba(7, 70, 129, 0.923),
       rgba(7, 71, 129, 0.923)
     ),
-    url(/images/hero-bg-1000px.jpg);
+    url(images/hero-bg-1000px.jpg);
   background-size: cover;
   background-position: left;
   background-repeat: no-repeat;
@@ -477,7 +477,7 @@ video {
       rgba(7, 70, 129, 0.923),
       rgba(7, 71, 129, 0.923)
     ),
-    url(/images/office.jpg);
+    url(images/office.jpg);
   background-size: cover;
   background-position: left;
   background-repeat: no-repeat;
